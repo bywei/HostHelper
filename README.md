@@ -3,9 +3,9 @@
 使用C#编写的一款简单方便的管理HOST指向记录的小工具，可方便切换HOST指向。公司常用在开发测试环境模拟真实线上的域名配置。
 
 ![screenshot](https://github.com/bywei/HostHelper/raw/master/Screenshots/hosthelper.png)
+![screenshot](https://github.com/bywei/HostHelper/raw/master/Screenshots/hosthelper14.jpg)
 
 HostHelper经历了前面几个小版本，功能逐渐的增强。使做开发和测试工作的朋友节省了工作时间，提高了工作的效率，希望能为大家受用。
-![screenshot](https://github.com/bywei/HostHelper/raw/master/Screenshots/hosthelper14.png)
 
 # 使用说明
 
