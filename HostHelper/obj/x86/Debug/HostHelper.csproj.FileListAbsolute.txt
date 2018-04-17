@@ -1,0 +1,11 @@
+F:\study\HostHelper\HostHelper\bin\Debug\HostHelper.exe.config
+F:\study\HostHelper\HostHelper\bin\Debug\HostHelper.exe
+F:\study\HostHelper\HostHelper\bin\Debug\HostHelper.pdb
+F:\study\HostHelper\HostHelper\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\study\HostHelper\HostHelper\obj\x86\Debug\HostHelper.HostManage.resources
+F:\study\HostHelper\HostHelper\obj\x86\Debug\HostHelper.Properties.Resources.resources
+F:\study\HostHelper\HostHelper\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\study\HostHelper\HostHelper\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\study\HostHelper\HostHelper\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\study\HostHelper\HostHelper\obj\x86\Debug\HostHelper.exe
+F:\study\HostHelper\HostHelper\obj\x86\Debug\HostHelper.pdb
